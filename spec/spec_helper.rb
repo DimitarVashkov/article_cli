@@ -2,6 +2,7 @@ require "bundler/setup"
 require "articlecli"
 require "article"
 require "newspaper"
+require "scraper"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure

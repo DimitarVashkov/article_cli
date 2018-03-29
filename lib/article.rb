@@ -1,5 +1,5 @@
 class Article
-    attr_accessor :description, :content, :author
+    attr_accessor :content, :category
     attr_reader :title
 
     def initialize(title)

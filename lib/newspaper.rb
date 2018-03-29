@@ -1,6 +1,6 @@
 class Newspaper
-    attr_reader :articles
-    
+    attr_accessor :time,:articles
+
     def initialize
         @articles = []
     end
