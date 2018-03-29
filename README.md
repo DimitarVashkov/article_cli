@@ -23,6 +23,16 @@ Or install it yourself as:
 
 From inside the root folder tupe   `./bin/articles` to start a CLI that lets you interact with the application.
 
+
+## The project
+
+The code for the project I felt was a bit easier than the previous Flatiron exercises. The main challenge was setting up the requirements for the project to run and the gem things. I felt completely prepared to finish the project. 
+
+I wanted to continue the trend of using Test-Driven development and tried writting several tests for Article and Newspaper classes. A further improvement can be adding specs for the scraper and the cli. I didn't use class variables as I didn't really find any meaning in using any. The classes were quite simple so there was no need to bring extra complexity when it is not needed.
+
+I'll probably come back to the project after I learn a bit more advanced Ruby concepts. I didn't really use Modules for this project and that's a bit disappointing. 
+
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
